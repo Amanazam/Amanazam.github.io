@@ -1,10 +1,10 @@
 [
     {
-        "name": "Abu Dhabi",
+        "name": "Dubai",
         "country": "United Arab Emirates",
         "places": {
             "indoor": [
-                "Yas World",
+                "Dubai Mall",
                 "IMG world"
             ],
             "outdoor": [
@@ -14,7 +14,7 @@
         }
     },
     {
-        "name": "Rome",
+        "name": "Milan",
         "country": "Italy",
         "places": {
             "indoor": [

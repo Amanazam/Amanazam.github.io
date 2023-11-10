@@ -18,11 +18,12 @@ header {
     margin: 31px;
 }
 
-h1 {
+h1{
     font-size: 2rem;
-    color: black
+    color: black;
     margin: 0;
 }
+
 
 button#btn {
     display: inline-block;

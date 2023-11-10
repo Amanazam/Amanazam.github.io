@@ -1,7 +1,7 @@
 var myCity = {
-    "name": "Abu Dhabi",
+    "name": "Dubai",
     "country": "UAE",
-    "place": "Yas World"
+    "place": "Dubai Mall"
 };
 console.log(myCity.name); // Outputs: Dubai
 console.log(myCity.country); // Outputs: UAE
@@ -10,12 +10,12 @@ console.log(myCity[1].console); // Outputs: Dubai
 
 var myCities = [
     {
-    "name": "Abu Dhabi",
+    "name": "Dubai",
     "country": "UAE",
-    "place": "Yas World"
+    "place": "Dubai Mall"
     },
     {
-    "name": "Rome",
+    "name": "Milan",
     "country": "Italy",
     "place": "Duomo Di Milano"
     }
