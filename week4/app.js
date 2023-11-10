@@ -32,6 +32,16 @@ btn.addEventListener('click', function () {
             const temperature = data.main.temp;
             const windSpeed = data.wind.speed;
 
+
+
+
+
+
+
+
+
+
+            
             // A new weather card and insert it above the existing content
             const weatherCard = document.createElement('div');
             weatherCard.className = 'weather-card';
