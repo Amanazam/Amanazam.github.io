@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Abu Dhabi",
+        "country": "United Arab Emirates",
+        "places": {
+            "indoor": [
+                "Yas World",
+                "IMG world"
+            ],
+            "outdoor": [
+                "JBR Beach",
+                "Zabeel Park"
+            ]
+        }
+    },
+    {
+        "name": "Rome",
+        "country": "Italy",
+        "places": {
+            "indoor": [
+                "Duomo di Milano",
+                "Galleria Vittorio"
+            ],
+            "outdoor": [
+                "Piazza del Duomo",
+                "Parco Sempione"
+            ]
+        }
+    },
+    {
+        "name": "Moscow",
+        "country": "Russia",
+        "places": {
+            "indoor": [
+                "Bolshoi Theatre",
+                "GUM"
+            ],
+            "outdoor": [
+                "Red Square",
+                "Gorky Central Park"
+            ]
+        }
+    }
+]
